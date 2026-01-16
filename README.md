@@ -59,3 +59,11 @@ This program requires `StdDraw.java` to be present.
 Compile:
 ```bash
 javac ConwayGameOfLife.java StdDraw.java
+
+## Dependencies
+   
+This project uses Princeton's introductory library for visualization:
+
+- **StdDraw** — 2D graphics rendering
+
+This file is included locally in the `lib/` directory for convenience.
