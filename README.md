@@ -59,6 +59,7 @@ This program requires `StdDraw.java` to be present.
 Compile:
 ```bash
 javac ConwayGameOfLife.java StdDraw.java
+```
 
 ## Dependencies
    
