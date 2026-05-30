@@ -37,6 +37,15 @@ patterns—such as **gliders**, **pulsars**, and **lightweight spaceships
 
 ---
 
+## Demo
+
+![Game of Life Demo](media/game_of_life_demo.gif)
+
+or see: 'media/game_of_life_demo.mp4'
+
+
+---
+
 ## Design Philosophy
 
 This implementation prioritizes **clarity and correctness** over abstraction
